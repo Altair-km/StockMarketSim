@@ -1,0 +1,96 @@
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.vbprojAssemblyReference.cache
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Resources.resources
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.vbproj.GenerateResource.cache
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.AssemblyInfoInputs.cache
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.AssemblyInfo.vb
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.vbproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.exe
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.deps.json
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.runtimeconfig.json
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.runtimeconfig.dev.json
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.dll
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\bin\Debug\net5.0-windows\ref\StockMarketSimPrototype.dll
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.pdb
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form1.resources
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form2.resources
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form3.resources
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form4.resources
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form5.resources
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.dll
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\obj\Debug\net5.0-windows\ref\StockMarketSimPrototype.dll
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.pdb
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.genruntimeconfig.cache
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\StockMarketSimPrototype\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form6.resources
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.exe
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.deps.json
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.runtimeconfig.json
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.runtimeconfig.dev.json
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.dll
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\ref\StockMarketSimPrototype.dll
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.pdb
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.vbprojAssemblyReference.cache
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form1.resources
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form2.resources
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form3.resources
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form4.resources
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form5.resources
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form6.resources
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Resources.resources
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.vbproj.GenerateResource.cache
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.AssemblyInfoInputs.cache
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.AssemblyInfo.vb
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.vbproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.dll
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\ref\StockMarketSimPrototype.dll
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.pdb
+C:\Users\micha\Documents\School\Year 12\Software Design and Development\Visual Basic\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.exe
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.deps.json
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.dll
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.pdb
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.vbproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form1.resources
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form2.resources
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form3.resources
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form4.resources
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form5.resources
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form6.resources
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Resources.resources
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.vbproj.GenerateResource.cache
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.AssemblyInfo.vb
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.vbproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.dll
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\refint\StockMarketSimPrototype.dll
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.pdb
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\ref\StockMarketSimPrototype.dll
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.exe
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.deps.json
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.dll
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\bin\Debug\net5.0-windows\StockMarketSimPrototype.pdb
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.vbproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form1.resources
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form2.resources
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form3.resources
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form4.resources
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form5.resources
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Form6.resources
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.Resources.resources
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.vbproj.GenerateResource.cache
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.AssemblyInfo.vb
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.vbproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.dll
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\refint\StockMarketSimPrototype.dll
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.pdb
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\StockMarketSimPrototype.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\Personal\School\Software\Katz Michael - Stage 3\StockMarketSimPrototype\obj\Debug\net5.0-windows\ref\StockMarketSimPrototype.dll
